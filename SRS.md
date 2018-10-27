@@ -1,9 +1,10 @@
 **Introduction and purpose**
 
-  --Definitions, system overview and references--
+  *Definitions, system overview and references*
 
-  -> Web application name, logo and motto:
-    -> What do we offer: Reliable, accurate, up-to-date, easy and fast to access information, secure transactions system and a chance to be a part of an interactive crowdsourcing community.
+  #Web application name, logo and motto:
+
+  #What do we offer: Reliable, accurate, efficient, up-to-date, easy and fast to access information, secure transactions system and a chance to be a part of an interactive crowdsourcing community.
 
   -> What makes as different from existing services?
 
